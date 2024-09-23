@@ -1,0 +1,5 @@
+process state diagram
+
+round robin and priority scheulding - GFG Byjus Textbook
+
+system module , kernel module BASIC intro of OS
