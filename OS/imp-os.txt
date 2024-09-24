@@ -17,4 +17,3 @@ FLAG variable turn variable
 seamaphore
 
 read and write
-
