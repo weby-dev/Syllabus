@@ -3,3 +3,18 @@ process state diagram
 round robin and priority scheulding - GFG Byjus Textbook
 
 system module , kernel module BASIC intro of OS
+
+kernel mode system mode
+
+cpu bound process and I/O bound
+
+multi processing multi tasking
+
+7 state diagram 
+PCB
+
+FLAG variable turn variable
+seamaphore
+
+read and write
+
