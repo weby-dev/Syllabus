@@ -2,3 +2,15 @@ EDA - SENERIO BASED QUES
 IMBALANCE DATA
 MISSING DATA
 COMPUTATION MATRIX
+
+What is EDA
+Impact of EDA on data
+Basic info of all plots histogram box plot scatter pie chat
+bar chat regression plot uses and dis
+
+time series 
+imbalance data dataset 
+muti colearnity 
+outlier noise diff
+handling imbalance
+word cloud
